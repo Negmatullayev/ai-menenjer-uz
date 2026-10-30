@@ -1,0 +1,6 @@
+{
+  "name": "MAHALLA OS — Smart City & Property Management",
+  "description": "Namangan shahri va xususiy turar joy majmualari (KSK) uchun AI, Digital Twin GIS va IoT monitoringga asoslangan boshqaruv ekotizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
